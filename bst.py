@@ -77,5 +77,5 @@ bst.insert(25)
 bst.insert(19)
 print(bst.search(15))
 print(bst.delete(8, None))
-print(bst.delete(8, None))
+print(bst.delete(8, None)) #False : 8 not in BST
             
